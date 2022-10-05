@@ -1,0 +1,23 @@
+{
+  "name": "haddock_code_challenge",
+  "version": "1.0.0",
+  "description": "Reto técnico propuesto por haddock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasenti/haddock_code_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasenti/haddock_code_challenge/issues"
+  },
+  "homepage": "https://github.com/Vasenti/haddock_code_challenge#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.2",
+    "typescript": "^4.8.4"
+  }
+}
