@@ -1,1 +1,18 @@
-[{"id":32,"_orderItems":[{"_product":{"number":12,"name":"Spring rolls","price":4.5},"_quantity":3,"_orderItemPrice":9,"_promotionApplied":true,"_promotionType":"Se ha aplicado la promoción 2x1"},{"_product":{"number":23,"name":"Ensalada césar","price":4.5},"_quantity":1,"_orderItemPrice":4.5,"_promotionApplied":false,"_promotionType":""}]}]
+[
+    {
+        "id": 32,
+        "_orderItems": [
+            {
+                "_product": {
+                    "number": 12,
+                    "name": "Spring rolls",
+                    "price": 4.5
+                },
+                "_quantity": 3,
+                "_orderItemPrice": 9,
+                "_promotionApplied": true,
+                "_promotionType": "Se ha aplicado la promoción 2x1"
+            }
+        ]
+    }
+]
