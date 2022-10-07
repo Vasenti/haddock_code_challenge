@@ -1,0 +1,13 @@
+{
+    "promotions": {
+        "2-for-1": {
+            "active": true,
+            "products_id": [12, 21]
+        },
+        "discount": {
+            "active": true,
+            "discountFinalPrice": 5,
+            "minimunToSpend": 20
+        }
+    }
+}
