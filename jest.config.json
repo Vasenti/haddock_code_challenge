@@ -1,0 +1,19 @@
+{
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "cacheDirectory": ".tmp/jestCache",
+  "rootDir": "./",
+  "testMatch": ["**/tests/**/?(*.)+(spec|test).+(ts|tsx|js)"],
+  "transform": {
+    "^.+\\.(ts|tsx)$": "ts-jest"
+  },
+  "coverageDirectory": "coverage",
+  "collectCoverage": true,
+  "coverageProvider": "v8",
+  "clearMocks": false,
+  "globals": {
+    "ts-jest": {
+      "isolatedModules": true
+    }
+  }
+}
