@@ -14,7 +14,7 @@ arquitectura hexagonal y DDD (Domain-Driven Design).
 Clonar proyecto
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Vasenti/haddock_code_challenge
 ```
 
 Ir a la carpeta del proyecto
